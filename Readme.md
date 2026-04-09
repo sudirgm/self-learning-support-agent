@@ -1,6 +1,18 @@
-# Hindsight Agent
+# Self-Learning Support Agent
 
-Simple but powerful Groq-powered customer support agent with unlimited tokens.
+An AI agent that improves its responses over time by learning from past mistakes using a memory + feedback loop.
+
+## How it works
+1. User input → agent response
+2. Feedback stored (good/bad)
+3. Past failures retrieved
+4. Agent improves response
+
+## Key Insight
+Memory alone doesn’t create learning — feedback does.
+
+## Key Insight
+Memory alone doesn’t create learning — feedback does.
 
 ## Setup
 1. Put your Groq API key in `.env`

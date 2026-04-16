@@ -164,7 +164,6 @@ bad
 
 ## 🔮 Future Improvements
 
-- Integrate real Hindsight memory system
 - Add semantic retrieval (vector search)
 - Automate feedback using evaluation models
 - Build a UI for better interaction
